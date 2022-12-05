@@ -1,3 +1,5 @@
+![](logo.png)
+
 # An Open Startup project from Together Plus Software
 
 Welcome! This is an experiment to share lots of code and infromation on scaling a startup.
